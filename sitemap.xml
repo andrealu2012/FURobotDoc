@@ -6,7 +6,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://fabunion.github.io/API/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fabunion.github.io/Tutorial/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://fabunion.github.io/about/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fabunion.github.io/Tutorial/getting_started/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fabunion.github.io/Tutorial/installation/</loc>
          <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
