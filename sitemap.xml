@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>./</loc>
+        <loc>https://andrealu2012.github.io/FURobotDoc/</loc>
         <lastmod>2023-08-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href=""/>
-        <xhtml:link rel="alternate" hreflang="zh" href="zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrealu2012.github.io/FURobotDoc/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://andrealu2012.github.io/FURobotDoc/zh/"/>
     </url>
     <url>
-        <loc>API/</loc>
+        <loc>https://andrealu2012.github.io/FURobotDoc/API/</loc>
         <lastmod>2023-08-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="API/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="zh/API/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrealu2012.github.io/FURobotDoc/API/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://andrealu2012.github.io/FURobotDoc/zh/API/"/>
     </url>
     <url>
-        <loc>about/</loc>
+        <loc>https://andrealu2012.github.io/FURobotDoc/about/</loc>
         <lastmod>2023-08-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="about/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="zh/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrealu2012.github.io/FURobotDoc/about/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://andrealu2012.github.io/FURobotDoc/zh/about/"/>
     </url>
     <url>
-        <loc>Tutorial/getting_started/</loc>
+        <loc>https://andrealu2012.github.io/FURobotDoc/Tutorial/getting_started/</loc>
         <lastmod>2023-08-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Tutorial/getting_started/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="zh/Tutorial/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrealu2012.github.io/FURobotDoc/Tutorial/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://andrealu2012.github.io/FURobotDoc/zh/Tutorial/getting_started/"/>
     </url>
     <url>
-        <loc>Tutorial/installation/</loc>
+        <loc>https://andrealu2012.github.io/FURobotDoc/Tutorial/installation/</loc>
         <lastmod>2023-08-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Tutorial/installation/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="zh/Tutorial/installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrealu2012.github.io/FURobotDoc/Tutorial/installation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://andrealu2012.github.io/FURobotDoc/zh/Tutorial/installation/"/>
     </url>
     <url>
-        <loc>zh/</loc>
+        <loc>https://andrealu2012.github.io/FURobotDoc/zh/</loc>
         <lastmod>2023-08-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="zh/"/>
-        <xhtml:link rel="alternate" hreflang="en" href=""/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://andrealu2012.github.io/FURobotDoc/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrealu2012.github.io/FURobotDoc/"/>
     </url>
     <url>
-        <loc>zh/API/</loc>
+        <loc>https://andrealu2012.github.io/FURobotDoc/zh/API/</loc>
         <lastmod>2023-08-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="zh/API/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="API/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://andrealu2012.github.io/FURobotDoc/zh/API/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrealu2012.github.io/FURobotDoc/API/"/>
     </url>
     <url>
-        <loc>zh/about/</loc>
+        <loc>https://andrealu2012.github.io/FURobotDoc/zh/about/</loc>
         <lastmod>2023-08-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="zh/about/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="about/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://andrealu2012.github.io/FURobotDoc/zh/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrealu2012.github.io/FURobotDoc/about/"/>
     </url>
     <url>
-        <loc>zh/Tutorial/getting_started/</loc>
+        <loc>https://andrealu2012.github.io/FURobotDoc/zh/Tutorial/getting_started/</loc>
         <lastmod>2023-08-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="zh/Tutorial/getting_started/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Tutorial/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://andrealu2012.github.io/FURobotDoc/zh/Tutorial/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrealu2012.github.io/FURobotDoc/Tutorial/getting_started/"/>
     </url>
     <url>
-        <loc>zh/Tutorial/installation/</loc>
+        <loc>https://andrealu2012.github.io/FURobotDoc/zh/Tutorial/installation/</loc>
         <lastmod>2023-08-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="zh/Tutorial/installation/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Tutorial/installation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://andrealu2012.github.io/FURobotDoc/zh/Tutorial/installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://andrealu2012.github.io/FURobotDoc/Tutorial/installation/"/>
     </url>
 </urlset>
